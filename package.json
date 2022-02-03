@@ -1,0 +1,23 @@
+{
+  "name": "EstructurasDeDatos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "eslintConfig": {
+    "env": {
+      "jest": true
+    }
+  },
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
