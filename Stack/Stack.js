@@ -1,9 +1,4 @@
-class Node {
-  constructor(value) {
-    this.value = value;
-    this.next = null;
-  }
-}
+const { Node } = require("../NodeClass.js");
 
 class Stack {
   constructor() {
